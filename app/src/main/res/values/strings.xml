@@ -1,0 +1,10 @@
+<resources>
+    <string name="sign_inText">Вход</string>
+    <string name="app_name">Android1_lesson1</string>
+    <string name="Welcome">Добро пожаловать!</string>
+    <string name="welcome2">Выполните вход или зарегистрируйтесь</string>
+    <string name="forgot_pass">Забыл пароль?</string>
+    <string name="login">Введите вашу почту</string>
+    <string name="password">Введите пароль</string>
+    <string name="sign_inBtn">Войти</string>
+</resources>
